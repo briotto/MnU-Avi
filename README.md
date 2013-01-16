@@ -1,6 +1,5 @@
-//Contributers:
-//Nils Beasley
-//Brett Riotto
-
 MnU-Avi
+Contributers:
+Nils Beasley
+Brett Riotto
 =======
