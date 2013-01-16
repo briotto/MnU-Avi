@@ -1,0 +1,18 @@
+13:56:46,050 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+13:56:46,240 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+13:56:46,398 DEBUG [ComponentPackUtils] Starting Search for CPs
+13:56:46,428 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 7.1.0 was found at C:\Program Files (x86)\eclipse\plugins\net.rim.ejde.componentpack7.1.0_7.1.0.10\components
+13:56:47,414 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1358369807387$C:\Program Files (x86)\Java\jre7]
+13:56:47,417 DEBUG [RuntimeInstallsHandler] Event [org.eclipse.jdt.launching.PROPERTY_JAVADOC_LOCATION] for: *OLD* was[http://download.oracle.com/javase/7/docs/api/] *NEW* is [].
+13:56:47,609 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 7.1.0
+13:56:47,631 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 7.1.0$C:\Program Files (x86)\eclipse\plugins\net.rim.ejde.componentpack7.1.0_7.1.0.10\components]
+13:56:47,650 TRACE [PropertyChangeListenerImp] openStartupOnEclpseFirstStart was changed from "false" to "false"
+13:56:47,727 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+13:56:47,745 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+13:56:47,746 TRACE [ContextManager] ContextManager startingneed update: true
+13:56:48,041 DEBUG [UpgradingNotification] qualifier: 0
+13:56:49,738 DEBUG [UpgradingNotification] qualifier: 19
+13:57:11,977 TRACE [PropertyChangeListenerImp] popForMissingVC was changed from "true" to "true"
+13:57:11,977 DEBUG [VCWarningDialog] setting popForMissingVCto true
+14:00:56,485 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: MnU-Avi
+14:00:56,485 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: MnU-Avi
